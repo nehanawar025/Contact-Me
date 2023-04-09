@@ -10,7 +10,7 @@
 ### Links
 
 - Solution URL: [Here](https://github.com/nehanawar025/Contact-Me)
-- Live Site URL: [Live Demo](https://nehanawar025.github.io/Fashion_Blog/)
+- Live Site URL: [Live Demo](https://nehanawar025.github.io/Contact-Me/)
 
 
 ### Built with
